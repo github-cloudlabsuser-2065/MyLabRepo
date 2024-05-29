@@ -1,2 +1,2 @@
 # MyLabRepo
-My repo for Lab 1
+My repo for Github Co-pilot labs
